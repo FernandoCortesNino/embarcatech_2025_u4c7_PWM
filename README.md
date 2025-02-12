@@ -45,7 +45,7 @@ Este projeto tem como objetivo a implementação do controle de um **servomotor*
 **6. Conclusão**
 O projeto permitiu uma compreensão aprofundada sobre o uso do **PWM no RP2040**, demonstrando sua aplicação tanto no **controle de servomotores** quanto na **modulação de intensidade de LEDs**. A experiência no **BitDogLab** reforçou a relação entre o ciclo de trabalho do PWM e a resposta dos dispositivos conectados. A implementação no **simulador Wokwi** permitiu validar o comportamento esperado antes da execução em hardware real. Com isso, foram consolidados conhecimentos essenciais sobre **controle de dispositivos por PWM** em sistemas embarcados.
 
-**7. link do vídeo: 
+**7. link do vídeo: https://drive.google.com/file/d/1Df4GzRBJrFXNyBINaQ2ZdDdWgrCWmvB1/view?usp=sharing **
 
 
 **8. Referências**

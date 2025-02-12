@@ -1,0 +1,4 @@
+[wokwi]
+version = 1 
+firmware = "build/microservor-PWM.hex"
+elf = "build/microservor-PWM.elf"
